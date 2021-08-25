@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Agile.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +37127345345
+- 📫 How to reach me +11111111
 
 <!---
 kaijaduuna/kaijaduuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
